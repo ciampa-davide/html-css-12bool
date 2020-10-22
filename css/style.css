@@ -8,4 +8,6 @@ p{
 
 .col-6 > .container{
   background: lightcoral;
+  border: 1px solid white;
+  padding:5px;
 }
